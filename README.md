@@ -11,11 +11,13 @@ If you want more details about sources in the bottom of the readme file. If you 
 
 ### Prerequisites
 
-Node.js and npm package manager have to be installed. Just follow the steps below (they are not from me but I will look for the sources):
+* Node.js & npm package manager have to be installed.
+* Mongodb has to be installed.
 
-```
-code - TODO
-```
+Not required but usefull:
+
+* [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - For testing the connexion.
+* [Robomongo](https://robomongo.org) - It helps to navigate through Mongodb database (instead of using terminal).
 
 ### Installing
 
